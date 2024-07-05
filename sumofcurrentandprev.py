@@ -15,7 +15,7 @@ prev_num = 0
 
 
 #loop from 1 to 10
-for i in range(1,11):
+for i in range(10):
     sum = prev_num + i 
     print('Current Number', i, 'Previous Number', prev_num, 'Sum:', sum)
     
